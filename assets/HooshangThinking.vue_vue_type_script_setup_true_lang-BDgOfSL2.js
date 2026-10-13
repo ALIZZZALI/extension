@@ -1,0 +1,1 @@
+import{T as o}from"./ThoughtProcessCard-C4wmLMPu.js";import{d as r,e as s,f as n,C as t}from"./vendor-GFJOj41n.js";const a={class:"w-full"},l=r({__name:"HooshangThinking",props:{query:{}},setup(e){return(c,u)=>(s(),n("div",a,[t(o,{query:e.query},null,8,["query"])]))}});export{l as _};
