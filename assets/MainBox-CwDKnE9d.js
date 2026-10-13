@@ -1,0 +1,1 @@
+import{d as s,e as o,f as t,j as n,G as r}from"./vendor-GFJOj41n.js";import{_ as c}from"./_plugin-vue_export-helper-DlAUqK2U.js";const l=s({__name:"MainBox",props:{className:{default:"w-32 p-7"}},setup(e){return(a,m)=>(o(),t("div",{class:r([[e.className],"main-box"])},[n(a.$slots,"default",{},void 0,!0)],2))}}),_=c(l,[["__scopeId","data-v-658c15e0"]]);export{_ as M};
