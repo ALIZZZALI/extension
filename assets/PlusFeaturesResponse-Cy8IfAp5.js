@@ -1,0 +1,1 @@
+const o={video_background:"video_background",color_theme:"color_theme",unlimited_bookmarks:"unlimited_bookmarks",upload_background:"upload_background"},e={video_background:"video_background",color_theme:"theme_color_selector",unlimited_bookmarks:"add_bookmark_button",upload_background:"upload_background"};export{e as a,o as p};

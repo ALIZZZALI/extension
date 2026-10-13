@@ -1,0 +1,1 @@
+import{t,v as a,$ as r,A as u}from"./override-COvoHFNe.js";const n=async()=>(await u.getInstance().axios.get("/cms/plus/features",{params:{platform:"extension"}})).data.data,o="plus-features-cache",c=360*60*1e3,l=()=>{const e=t();return a({queryKey:["plusFeatures"],queryFn:()=>r(o,c,n,s=>e.setQueryData(["plusFeatures"],s))})};export{l as u};

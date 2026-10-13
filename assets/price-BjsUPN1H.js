@@ -1,0 +1,1 @@
+function r(n,t){if(n==null||isNaN(n))return"0";const f=typeof t=="string"?t==="fa"?"fa-IR":t==="en"?"en-US":t:t&&typeof t.value=="string"?t.value==="fa"?"fa-IR":t.value==="en"?"en-US":t.value:"fa-IR";try{return n.toLocaleString(f)}catch{return n.toLocaleString("fa-IR")}}export{r as f};
